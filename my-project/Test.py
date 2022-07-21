@@ -14,3 +14,5 @@ url.svg("myqr.svg", scale = 8)
 
 # Create and save the svg file naming "myqr.png"
 url.png("myqr.png", scale = 6)
+
+# warning: in the working copy of 'myqr.svg', LF will be replaced by CRLF the next time Git touches it
